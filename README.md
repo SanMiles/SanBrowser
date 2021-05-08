@@ -3,3 +3,7 @@ Fast and lightweight browser. It's just a browser that can only view pages on th
 
 
 # How to download this browser?
+
+The first option is simply to go to the "releases" tab and download apk.
+Yes, sometimes many do not understand where to click to download;-;
+
